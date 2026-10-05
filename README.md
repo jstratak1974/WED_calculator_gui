@@ -623,9 +623,5 @@ displayed z coordinate alone.
 3. pydicom project. *Handling of compressed pixel data.*
    [pydicom documentation](https://pydicom.github.io/pydicom/stable/guides/user/image_data_handlers.html)
 
-## Repository note
 
-The supplied script does not include a declared software license. Add a
-`LICENSE` file before distributing the project under a specific open-source
-license.
 
